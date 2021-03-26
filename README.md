@@ -1,1 +1,1 @@
-# eda-practice
+# EDA-practice
